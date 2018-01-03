@@ -44,6 +44,10 @@ comments: false
 
 * Programming Language
 	* Java / ECMAScript / TypeScript / Python / C++
+* Speaking Language
+    * Korean (Native)
+    * English (Fluent)
+    * Japanese (Beginner)
 * Server Framework
 	* Node.js / Flask / Spring Boot
 * Database
