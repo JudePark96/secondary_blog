@@ -1,37 +1,61 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: Jude Park
+tags: [about]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center>A developer who wants to write the code getting better and better</center>
 
-## Preview
+## Education
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+* Hanbat National University, Daejeon, S.Korea
+	*  Computer Science, 2015, Dropped Out
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+* Koomin University, Seoul, S.Korea
+	* Computer Science, 2016 ~ Current 
 
-## Getting Started
+## Work Experience
+* **Server Engineer @ Plating, 16.07.03 ~ 17.02.07**
+	* Node.js Service Back-End Development
+	* Android Client Development
+	* Operation Tool Development
+	* Plating API of CJ Hologram Development
+	* Plating Payment System Development
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+* **Freelancer @ 5+ Companies, Currently Working**
+	* Developed Android Application, Spring Boot Server for a poll system
+	* Developed Node.js REST API Server & Python Socket.io Server for a real-time game
+	* etc ...
+
+## Certificate
+* SW Maestro 6th Mentee - <a href="https://drive.google.com/open?id=1o5Q1w-mb31lIcim1Oq9kKRda73z933Mz"><b>Source</b></a>
+	* Building Security Network Using SDN (Software-Defined Network)
+	* Crash Report Service
+
+## Awards
+* University of California, Irvine Innovation Program of Kookmin University, 2017
+* 1st (Technical Category) @ GDG Korea Firebase Hackathon, 2016
+* 1st @ No Forget Hackathon, 2015
+* Samsung Software Membership Technical Interview 25-2 Passed, 2014
+
+## Skills
+
+* Programming Language
+	* Java / ECMAScript / TypeScript / Python / C++
+* Server Framework
+	* Node.js / Flask / Spring Boot
+* Database
+	* MySQL / MongoDB
+* Mobile
+	* Android
+
+## What I'm Interested In
+
+* Deep Learning
+	* Currently, Studying ..
+* ReactJS & AngularJS, Totally Front-End
+	* Currently, Studying ...
+* Automation
+	* Automation, Exactly ...
