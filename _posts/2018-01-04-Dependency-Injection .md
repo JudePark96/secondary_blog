@@ -17,13 +17,13 @@ comments: true
 
 {% highlight javascript %}
 export class Item {
-	public type: ItemType;
-	public information: ItemInformation;
+  public type: ItemType;
+  public information: ItemInformation;
 	
-	constructor() {
-		this.type = new ItemType();
-		this.information = new ItemInformation();
-	}
+  constructor() {
+    this.type = new ItemType();
+	 this.information = new ItemInformation();
+  }
 }
 {% endhighlight %}
 
@@ -49,10 +49,13 @@ Item.getType().setTypeInformation('TypeInformation');
 	
 {% highlight javascript %}
 export class Item {
-	public type: ItemType;
-	public information: ItemInformation;
+  public type: ItemType;
+  public information: ItemInformation;
 	
-	constructor(public type: ItemType, public information: ItemInformation) { }
+  constructor(public type: ItemType, public information: ItemInformation) {
+    this.type = type;
+    this.information = information;
+  }
 }
 {% endhighlight %}
 
