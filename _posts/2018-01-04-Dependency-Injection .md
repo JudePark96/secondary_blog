@@ -39,7 +39,7 @@ Item.getType().setTypeInformation('TypeInformation');
 
 어떻게 해야 더욱 더 유연하고 좋은 코드를 작성할 수 있을까?
 
-마틴 파울러의 <a href=https://martinfowler.com/articles/injection.html>글</a>에 따르면 아래의 3 가지 방법이 있다.
+마틴 파울러의 [글](https://martinfowler.com/articles/injection.html)에 따르면 아래의 3 가지 방법이 있다.
 
  * Constructor injection
  * Setter injection
