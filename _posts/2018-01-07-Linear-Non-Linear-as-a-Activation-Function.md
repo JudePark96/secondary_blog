@@ -20,7 +20,7 @@ comments: true
 ![](https://cdn-images-1.medium.com/max/1600/0*No3vRruq7Dd4sxdn.png)
 
 ~~~
-\\[ y = {h((x_1 * w_1) + (x_2 * w_2) + (x_3 * w_3))} \\]
+\\(y = {h(x_1w_1 + x_2w_2 + x_3w_3)})\\
 ~~~
 
 퍼셉트론은 다수의 신호를 입력으로 받고 계산을 한 후, 그 결과 값을 활성화 함수에 대입한다. 위의 그림은 그에 대한 예이며, 3개의 신호를 받는 퍼셉트론의 예이다.
@@ -31,10 +31,10 @@ comments: true
 
 {% highlight python %}
 def step_function(x):
-	if x> 0:
-		return 1
-	else:
-		return 0
+  if x> 0:
+    return 1
+  else:
+    return 0
 {% endhighlight %}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dirac_distribution_CDF.svg/600px-Dirac_distribution_CDF.svg.png)
@@ -43,7 +43,7 @@ def step_function(x):
 
 {% highlight python %}
 def sigmoid(x):
-	return 1 / (1 + np.exp(-x))
+  return 1 / (1 + np.exp(-x))
 {% endhighlight %}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logistic-curve.svg/600px-Logistic-curve.svg.png)
