@@ -27,6 +27,7 @@ comments: false
 * **Freelancer @ 5+ Companies, Currently Working**
 	* Developed Android Application, Spring Boot Server for a poll system
 	* Developed Node.js REST API Server & Python Socket.io Server for a real-time game
+    * Analyzing System at KISTI, Korea Institute of Science and Technology Information
 	* etc ...
 
 ## Certificate
