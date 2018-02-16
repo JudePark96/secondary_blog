@@ -3,9 +3,11 @@ layout: post
 title: "규슈 여행하면서"
 date: 2018-02-16
 tags: [travel]
-feature: https://raw.githubusercontent.com/ParkJude/parkjude.github.io/master/assets/img/travel_beppu.jpg
+excerpt: "Reason of Travel"
 comments: true
 ---
+
+![](https://raw.githubusercontent.com/ParkJude/parkjude.github.io/master/assets/img/travel_beppu.jpg)
 
 이번 여행은 뭐랄까, 지난 2년 간의 나의 행적을 되새겨볼 수 있었다고나 할까. 그도 그럴 것이, 후쿠오카는 16년 가을에 갔었고 기타큐슈와 벳푸, 그리고 시모노세키는 17년 여름에 다녀왔었다.
 
