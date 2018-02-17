@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CS20 : TensorFlow for Deep Learning Research (1)"
-date: 2018-02-16
+date: 2018-02-17
 tags: [Tensorflow, Deep Learning]
 excerpt: "Summary of CS20 Lecture 1 ~ 2"
 comments: true
