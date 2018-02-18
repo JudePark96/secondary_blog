@@ -97,7 +97,11 @@ with tf.Session() as sess:
     Epocj 97: 30.03442924663878
     Epocj 98: 30.0349335548615
     Epocj 99: 30.03552558278714
+
+
 결과를 잘 보면 훈련을 거듭할 수록 에러가 줄어듬을 알 수 있다. 한 번 PyPlot 을 통해 시각적으로 표현해보자.
+
+
 
 ```python
 # plot the results
@@ -117,3 +121,5 @@ plt.show()
 ## Reference
 
 http://web.stanford.edu/class/cs20si/syllabus.html
+
+https://medium.com/@peteryun/ml-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tensorflow-3-gradient-descent-algorithm-%EA%B8%B0%EB%B3%B8-c0688208fc59
