@@ -41,6 +41,8 @@ Socket.io 의 에서 background 에서 정의한 Frequency 마다 Task 를 호�
 
 ### 4. Implementation
 
+어떻게 구현하였는지 아래에 기술하도록 한다.
+
 ```Python
 import redis
 from celery import Celery
