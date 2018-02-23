@@ -2,7 +2,7 @@
 layout: post
 title: Game Matching System Implementation
 date: 2018-02-24
-Excerpt: "Implementation of Game Matching System"
+excerpt: "Implementation of Game Matching System"
 tag: [Celery, Python]
 ---
 
