@@ -4,6 +4,7 @@ title: Game Matching System Implementation
 date: 2018-02-24
 excerpt: "Implementation of Game Matching System"
 tag: [Celery, Python]
+comments: true
 ---
 
 ### 1. Introduction
