@@ -134,6 +134,8 @@ if __name__ == '__main__':
 
 Python 용 Socket.io 라이브러리에서는 Background Task 를 위한 함수가 편의를 위해 제공되고 있다.
 
+
+
 ```Python
 async def callee_task(sio, frequency=5):
     while True:
@@ -160,6 +162,8 @@ async def callee_matching(sio, frequency=5):
     task_ = [callee_task(sio, frequency)]
     await asyncio.wait(task_)
 ```
+
+
 
 Celery 에서는 여러 매치 정보를 결과로서 넘겨준다. 그 결과를 바탕으로 Room 생성 및 매치 결과를 각 사용자들에게 전달한다. 
 
