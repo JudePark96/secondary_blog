@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS20 : TensorFlow for Deep Learning Research (3)
+title: "CS20 : TensorFlow for Deep Learning Research (3)"
 date: 2018-02-28
 excerpt: "Summary of Convolutional Neural Network"
 tag: [Deep Learning]
