@@ -78,7 +78,7 @@ The inputs and outputs are directly connected. That is the difference between LS
 
 ### 10. Conclusion
 
-Conv-CRF model relies on Senna embedding to get good tagging accuracy. But, Bi-LSTM doesn't reliy on embedding also it got a good tagging accuracy.
+Conv-CRF model relies on Senna embedding to get good tagging accuracy. But, Bi-LSTM doesn't rely on embedding also it got a good tagging accuracy.
 
 ### 11. Reference
 
