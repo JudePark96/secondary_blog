@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Implementation <Merge Two Sorted List> from LeetCode"
-date: 2018-03-29
+date: 2019-05-30
 tags: [Data Structure]
 excerpt: "Merge Two Sorted List"
 comments: true
