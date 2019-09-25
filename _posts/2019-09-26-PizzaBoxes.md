@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Algorithm - PizzaBoxes"
-date: 2018-03-29
+date: 2019-09-26
 tags: [Algorithm]
 excerpt: "Solution using partitioning array."
 comments: true
